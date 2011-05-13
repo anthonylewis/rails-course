@@ -1,0 +1,16 @@
+# Resources for Learning Ruby
+
+## New to programming
+
+Learn to Program by Chris Pine
+http://pine.fm/LearnToProgram/
+
+## Test your knowledge
+
+Ruby Koans
+http://rubykoans.com/
+
+Ruby Quiz
+http://rubyquiz.com/
+
+

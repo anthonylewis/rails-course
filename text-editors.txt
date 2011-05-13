@@ -1,0 +1,21 @@
+# Text Editors
+
+## The classics
+
+Vim
+Emacs
+
+## Mac Only
+
+Textmate
+
+## Linux
+
+gedit (gnome)
+kate  (KDE)
+
+## Cross Platform
+
+Sublime Text 2
+Redcar (written in Ruby)
+
