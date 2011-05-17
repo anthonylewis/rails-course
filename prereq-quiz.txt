@@ -1,0 +1,50 @@
+
+1. Choose the correct HTML tag for the largest heading
+    a. <heading>
+    b. <h1>
+    c. <h6>
+    d. <largest>
+
+2. What is the correct HTML for creating a hyperlink?
+    a. <href src="http://www.google.com/">Google</a>
+    b. <link href="http://www.google.com/">Google</a>
+    c. <a href="http://www.google.com/">Google</a>
+    d. <a src="http://www.google.com/">Google</a>
+
+3. What is the correct HTML for making a text input field?
+    a. <text></text>
+    b. <field type="text"></field>
+    c. <input type="text></input>
+    d. <textfield></textfield>
+
+4. What is the correct HTML for referring to an external style sheet?
+    a.
+    b.
+    c.
+    d.
+
+5. How do you insert a comment in a CSS file?
+    a. REM This is a comment
+    b. # This is a comment
+    c. // This is a comment
+    d. /* This is a comment */
+
+6. What is the correct CSS syntax for making all <p> elements bold?
+    a. all.p { text-weight: bold; }
+    b. p = bold;
+    c. p { text-weight: bold; }
+    d. p#all { bold; }
+
+7. With SQL, how do you select all the columns from a table named 'people'?
+    a. SELECT * FROM 'people'
+    b. FROM 'people' SELECT ALL
+    c. GET ALL 'people'
+    d. SELECT 'people'
+
+8. Which SQL statement is used to sort results?
+    a. SORT
+    b. SORTED
+    c. ORDERED
+    d. ORDER BY
+
+
