@@ -1,0 +1,17 @@
+# Git Resources
+
+Pro Git
+
+Free online book, also in print
+
+http://progit.org/book/
+
+GitHub Bootcamp
+
+http://help.github.com/
+
+Git Reference
+
+http://gitref.org/
+
+
