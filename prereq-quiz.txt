@@ -18,16 +18,16 @@
     d. <textfield></textfield>
 
 4. What is the correct HTML for referring to an external style sheet?
-    a.
-    b.
-    c.
-    d.
+    a. <link rel="stylesheet" type="css/text" src="styles.css" />
+    b. <style rel="stylesheet" type="text/css" href="styles.css" />
+    c. <style type="stylesheet" rel="text/css" src="styles.css" />
+    d. <link rel="stylesheet" type="text/css" href="styles.css" />
 
 5. How do you insert a comment in a CSS file?
-    a. REM This is a comment
-    b. # This is a comment
-    c. // This is a comment
-    d. /* This is a comment */
+    a. /* This is a comment */
+    b. REM This is a comment
+    c. # This is a comment
+    d. // This is a comment
 
 6. What is the correct CSS syntax for making all <p> elements bold?
     a. all.p { text-weight: bold; }
@@ -47,4 +47,27 @@
     c. ORDERED
     d. ORDER BY
 
+9. What would be the output of the following Ruby program?
+
+      x = 2 + 3
+      if x > 4
+        print "true"
+      else
+        print "false"
+      end
+
+    a. 5
+    b. 4
+    c. true
+    d. false
+
+10. What would be the output of the following Ruby program?
+
+      list = ["b", "c", "a"]
+      print list.sort
+
+    a. list.sort
+    b. ilst
+    c. abc
+    d. bca
 
