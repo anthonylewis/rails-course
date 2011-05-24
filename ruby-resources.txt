@@ -22,6 +22,10 @@ Try Ruby - online interactive tutorial
 
 http://tryruby.org/
 
+Mr. Neighborly's Humble Little Ruby Book
+
+http://www.humblelittlerubybook.com/book/html/index.html
+
 # New to Ruby (and a little crazy)
 
 Why's Poignant Guide to Ruby
