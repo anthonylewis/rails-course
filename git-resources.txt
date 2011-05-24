@@ -14,4 +14,8 @@ Git Reference
 
 http://gitref.org/
 
+Git Community Book
+
+http://book.git-scm.com/
+
 
