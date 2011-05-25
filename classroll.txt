@@ -1,0 +1,49 @@
+
+rails new classroll
+cd classroll
+
+bundle install
+
+git init
+git add .
+git commit -m "Initial commit"
+
+rails generate scaffold Student name:string email:string url:string bio:text
+
+rake db:migrate
+
+git add .
+git commit -m "Adding students"
+
+git rm public/index.html
+Edit config/routes.rb
+
+git add .
+git commit -m "Updating routes"
+
+git mv public/stylesheets/scaffold.css public/stylesheets/styles.css
+git commit -m "Renaming stylesheet"
+
+Edit app/views/layouts/application.html.erb
+Edit app/views/students/_form.html.erb
+Edit app/views/students/index.html.erb
+Edit app/views/students/new.html.erb
+Edit app/views/students/show.html.erb
+Edit public/stylesheets/styles.css
+
+git add .
+git commit -m "Updating views"
+
+Edit app/models/student.rb
+
+git add .
+git commit -m "Adding validation"
+
+git remote add origin git@github.com:anthonylewis/classroll.git
+git push -u origin master
+
+heroku create
+heroku keys:add
+git push heroku master
+heroku rake db:migrate
+
