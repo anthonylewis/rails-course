@@ -1,0 +1,17 @@
+# Common Commands
+
+git init
+
+git status
+
+git add .
+
+git add filename
+
+git commit -m "Your commit message"
+
+git push
+
+git pull
+
+
