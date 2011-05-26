@@ -33,74 +33,83 @@ to any host.  We will also cover performance monitoring and
 testing of Rails applications.
 
 Prerequisites:
-  Knowledge of HTML, CSS, and SQL
 
-Course Outline:
+* Knowledge of HTML, CSS, and SQL
+
+## Course Outline:
 
 Session 1:
-  Installation / Configuration
-    Windows, Mac OS X, and Linux
-  Overview of the tools
-    ruby, rvm, gem, bundler, git
-  Editors and IDEs
-  Your first Ruby on Rails application
-  Ruby on Rails Architecture
-    Model - View - Controller
-  Application directory structure
+
+* Installation / Configuration
+  * Windows, Mac OS X, and Linux
+* Overview of the tools
+  * ruby, rvm, gem, bundler, git
+* Editors and IDEs
+* Your first Ruby on Rails application
+* Ruby on Rails Architecture
+  * Model - View - Controller
+* Application directory structure
  
 Session 2:
-  All About Models
-  CRUD (Create, Read, Update, Delete)
-  Migrations
-  Validation
-  Associations
+
+* All About Models
+* CRUD (Create, Read, Update, Delete)
+* Migrations
+* Validation
+* Associations
 
 Session 3:
-  All About Views
-  ERB (Embedded Ruby)
-  Helpers
-  Forms
-  Partials
-  Layouts
+
+* All About Views
+* ERB (Embedded Ruby)
+* Helpers
+* Forms
+* Partials
+* Layouts
 
 Session 4:
-  All About Controllers
-  REST
-    The 7 default actions
-  Parameters
-  Routing
-    Resources
-    Custom Routes
-    URL Planning
+
+* All About Controllers
+* REST
+  * The 7 default actions
+* Parameters
+* Routing
+  * Resources
+  * Custom Routes
+  * URL Planning
 
 Session 5:
-  Testing
-    RSpec
-    TDD
-  An app from scratch
-  Testing models
-  Testing views
-  Testing controllers
+
+* Testing
+  * RSpec
+  * TDD
+* An app from scratch
+* Testing models
+* Testing views
+* Testing controllers
 
 Session 6:
-  Advanced Rails
-    Sessions
-    UJS
-  Adding features
-  Debugging
+
+* Advanced Rails
+  * Sessions
+  * UJS
+* Adding features
+* Debugging
 
 Session 7:
-  Useful Gems
-    Devise
-    CanCan
-    Kaminari
-    CarrierWave
-  Bundler
+
+* Useful Gems
+  * Devise
+  * CanCan
+  * Kaminari
+  * CarrierWave
+* Bundler
 
 Session 8:
-  Security Concerns
-  Deployment
-    Heroku
-    Capistrano
-  Performance Testing
+
+* Security Concerns
+* Deployment
+  * Heroku
+  * Capistrano
+* Performance Testing
 
