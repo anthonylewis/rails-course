@@ -38,7 +38,7 @@ Prerequisites:
 
 ## Course Outline:
 
-Session 1:
+### Session 1:
 
 * Installation / Configuration
   * Windows, Mac OS X, and Linux
@@ -50,7 +50,7 @@ Session 1:
   * Model - View - Controller
 * Application directory structure
  
-Session 2:
+### Session 2:
 
 * All About Models
 * CRUD (Create, Read, Update, Delete)
@@ -58,7 +58,7 @@ Session 2:
 * Validation
 * Associations
 
-Session 3:
+### Session 3:
 
 * All About Views
 * ERB (Embedded Ruby)
@@ -67,7 +67,7 @@ Session 3:
 * Partials
 * Layouts
 
-Session 4:
+### Session 4:
 
 * All About Controllers
 * REST
@@ -78,7 +78,7 @@ Session 4:
   * Custom Routes
   * URL Planning
 
-Session 5:
+### Session 5:
 
 * Testing
   * RSpec
@@ -88,7 +88,7 @@ Session 5:
 * Testing views
 * Testing controllers
 
-Session 6:
+### Session 6:
 
 * Advanced Rails
   * Sessions
@@ -96,7 +96,7 @@ Session 6:
 * Adding features
 * Debugging
 
-Session 7:
+### Session 7:
 
 * Useful Gems
   * Devise
@@ -105,7 +105,7 @@ Session 7:
   * CarrierWave
 * Bundler
 
-Session 8:
+### Session 8:
 
 * Security Concerns
 * Deployment
