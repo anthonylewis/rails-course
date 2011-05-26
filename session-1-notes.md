@@ -72,8 +72,48 @@ Ruby Version Manager
 
 https://rvm.beginrescueend.com/
 
+## Ruby Learning Resources
 
-## Building the Class Roll App
+### New to programming
+
+Learn to Program by Chris Pine
+http://pine.fm/LearnToProgram/
+
+Free online version in HTML
+
+### New to Ruby
+
+Beginning Ruby by Peter Cooper
+http://www.rubyinside.com/why-the-lucky-stiffs-delightful-foreword-for-beginning-ruby-4550.html
+
+Peter Cooper shared this link to the PDF version of his book
+http://no.gd/begruby2.pdf
+
+Ruby in Twenty Minutes
+http://www.ruby-lang.org/en/documentation/quickstart/
+
+Try Ruby - online interactive tutorial
+http://tryruby.org/
+
+Mr. Neighborly's Humble Little Ruby Book
+http://www.humblelittlerubybook.com/book/html/index.html
+
+## New to Ruby (and a little crazy)
+
+Why's Poignant Guide to Ruby
+http://mislav.uniqpath.com/poignant-guide/
+
+### Test your knowledge
+
+Ruby Koans
+http://rubykoans.com/
+
+Ruby Quiz
+http://rubyquiz.com/
+
+
+
+## Building and Deploying the Class Roll App
 
     rails new classroll
     cd classroll
