@@ -1,20 +1,14 @@
 # Local Community Resources
 
 Austin on Rails
-
-Meets 4th Tuesday, 7-9 PM
-
-http://austinonrails.org/
+  Meets 4th Tuesdays, 7-9 PM
+  http://austinonrails.org/
 
 Austin.rb
-
-Meets 3rd Thursday, 7-9 PM
-
-http://austinrb.org/
+  Meets 3rd Thursdays, 7-9 PM
+  http://austinrb.org/
 
 Lone Star Ruby Conference
-
-August 11-13, 2011
-
-http://www.lonestarrubyconf.com/
+  August 11-13, 2011
+  http://www.lonestarrubyconf.com/
 

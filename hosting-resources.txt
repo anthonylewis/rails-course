@@ -1,16 +1,12 @@
 # Rails Hosting
 
 Heroku
-
-They offer a free plan
-Simple deployment with git
-
-http://www.heroku.com/
+  They offer a free plan
+  Simple deployment with git
+  http://www.heroku.com/
 
 Rackspace Cloud Servers
-
-1.5 cents per hour for your own server
-
-http://www.rackspace.com/cloud/
+  1.5 cents per hour for your own server
+  http://www.rackspace.com/cloud/
 
 

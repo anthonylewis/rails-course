@@ -32,6 +32,5 @@ sudo apt-get install git ruby rubygems1.8
 sudo gem install rails
 gedit ~/.bashrc
 Add this line at the bottom:
-
 PATH="/var/lib/gems/1.8/bin:$PATH"
 
