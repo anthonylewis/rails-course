@@ -111,6 +111,26 @@ http://rubykoans.com/
 Ruby Quiz
 http://rubyquiz.com/
 
+## Git Learning Resources
+
+Pro Git
+
+Free online book, also in print
+
+http://progit.org/book/
+
+GitHub Bootcamp
+
+http://help.github.com/
+
+Git Reference
+
+http://gitref.org/
+
+Git Community Book
+
+http://book.git-scm.com/
+
 
 
 ## Building and Deploying the Class Roll App
