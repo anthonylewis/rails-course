@@ -19,8 +19,6 @@
   * Sign Up For GitHub
   * Sign Up For Heroku
 
-----
-
 ## Installation
 
 ### Windows
