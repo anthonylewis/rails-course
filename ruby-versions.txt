@@ -1,3 +1,14 @@
+
+Mac OS X Ruby Versions:
+
+Tiger (10.4) 1.8.2
+Leopard (10.5) 1.8.6
+Snow Leopard (10.6) 1.8.7
+
+You will need Xcode - 
+Install from your Mac OS X DVD or
+http://developer.apple.com/xcode/
+
 Ubuntu Ruby Versions:
 
 dapper (6.06LTS) 1.8.4
@@ -15,16 +26,6 @@ unstable 1.8.7
 CentOS Ruby Versions:
 
 CentOS 5 1.8.5
-
-Mac OS X Ruby Versions:
-
-Tiger (10.4) 1.8.2
-Leopard (10.5) 1.8.6
-Snow Leopard (10.6) 1.8.7
-
-You will need Xcode - 
-Install from your Mac OS X DVD or
-http://developer.apple.com/xcode/
 
 Installing on Ubuntu:
 
