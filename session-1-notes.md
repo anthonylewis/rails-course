@@ -58,7 +58,7 @@ CentOS Ruby Versions Included:
 
 * CentOS 5 1.8.5
 
-Installing on Ubuntu:
+#### Installing on Ubuntu:
 
     sudo apt-get install git ruby rubygems1.8
     sudo gem install rails
