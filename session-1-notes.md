@@ -1,6 +1,7 @@
 # Session 1 Notes
 
-Session Overview:
+## Session Overview:
+
 * Installation / Configuration
   * Windows, Mac OS X, and Linux
 * Overview of the tools
