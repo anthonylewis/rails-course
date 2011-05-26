@@ -13,4 +13,10 @@
   * Model - View - Controller
   * Application directory structure
 * Homework
+  * Learn Some Ruby
+  * Join The Community
+  * Sign Up For GitHub
+  * Sign Up For Heroku
+
+----
 
