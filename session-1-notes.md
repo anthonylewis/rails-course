@@ -111,6 +111,7 @@ http://rubykoans.com/
 Ruby Quiz
 http://rubyquiz.com/
 
+
 ## Git Learning Resources
 
 Pro Git
@@ -131,6 +132,37 @@ Git Community Book
 
 http://book.git-scm.com/
 
+
+## Rails Hosting
+
+Heroku
+
+* They offer a free plan
+* Simple deployment with git
+* http://www.heroku.com/
+
+Rackspace Cloud Servers
+
+* 1.5 cents per hour for your own server
+* http://www.rackspace.com/cloud/
+
+
+## Local Community Resources
+
+Austin on Rails
+
+* Meets 4th Tuesdays, 7-9 PM
+* http://austinonrails.org/
+
+Austin.rb
+
+* Meets 3rd Thursdays, 7-9 PM
+* http://austinrb.org/
+
+Lone Star Ruby Conference
+
+* August 11-13, 2011
+* http://www.lonestarrubyconf.com/
 
 
 ## Building and Deploying the Class Roll App
