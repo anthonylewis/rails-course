@@ -1,8 +1,11 @@
+# Building the Class Roll App
 
 rails new classroll
 cd classroll
 
 bundle install
+
+rake db:create
 
 git init
 git add .
