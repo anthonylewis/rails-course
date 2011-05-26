@@ -98,7 +98,7 @@ http://tryruby.org/
 Mr. Neighborly's Humble Little Ruby Book
 http://www.humblelittlerubybook.com/book/html/index.html
 
-## New to Ruby (and a little crazy)
+### New to Ruby (and a little crazy)
 
 Why's Poignant Guide to Ruby
 http://mislav.uniqpath.com/poignant-guide/
