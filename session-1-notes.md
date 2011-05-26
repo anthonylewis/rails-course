@@ -3,12 +3,14 @@
 ## Session Overview:
 
 * Installation / Configuration
-  * Windows, Mac OS X, and Linux
-* Overview of the tools
-  * ruby, rvm, gem, bundler, git
-* Editors and IDEs
+  * Windows, Mac OS X, Linux, RVM
+* Tools Overview
+  * ruby, rails, gem, bundler, git
+  * Editors and IDEs
 * Your first Ruby on Rails application
-* Ruby on Rails Architecture
+  * Ruby on Rails Philosophy
+  * Ruby on Rails Architecture
   * Model - View - Controller
-* Application directory structure
+  * Application directory structure
+* Homework
 
