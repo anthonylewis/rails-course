@@ -40,4 +40,30 @@ Association
 
 http://www.flickr.com/photos/stuckincustoms/4094088665/
 
+## Session Three Slides
+
+Views
+
+http://www.flickr.com/photos/pilottage/3661466756/
+
+ERB
+
+http://www.flickr.com/photos/jason-samfield/4847805701/
+
+Helpers
+
+http://www.flickr.com/photos/tropicaliving/3662229028/
+
+Forms
+
+http://www.flickr.com/photos/jeepeenyc/213636561/
+
+Partials
+
+http://www.flickr.com/photos/splorp/42799621/
+
+Layouts
+
+http://www.flickr.com/photos/stuckincustoms/2702328827/
+
 
