@@ -83,7 +83,6 @@ Prerequisites:
 * Testing
   * RSpec
   * TDD
-* An app from scratch
 * Testing models
 * Testing views
 * Testing controllers
@@ -93,6 +92,7 @@ Prerequisites:
 * Advanced Rails
   * Sessions
   * UJS
+* An app from scratch
 * Adding features
 * Debugging
 
