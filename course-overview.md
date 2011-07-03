@@ -101,15 +101,20 @@ Prerequisites:
 * Useful Gems
   * Devise
   * CanCan
-  * Kaminari
-  * CarrierWave
+  * Kaminari (will_paginate)
+  * CarrierWave (paperclip)
 * Bundler
 
 ### Session 8:
 
 * Security Concerns
+  * Injection
+  * CSRF
+  * Mass Assignment
+* Performance Testing
+  * Indexes
+  * N+1 Queries
 * Deployment
   * Heroku
   * Capistrano
-* Performance Testing
 
