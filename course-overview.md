@@ -103,6 +103,9 @@ Prerequisites:
   * CanCan
   * Kaminari (will_paginate)
   * CarrierWave (paperclip)
+  * MetaSearch
+  * Twitter?
+  * HTTParty?
 * Bundler
 
 ### Session 8:
